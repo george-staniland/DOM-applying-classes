@@ -8,6 +8,10 @@ body {
   justify-content: center;
 }
 
+.green {
+  background-color: green;
+}
+
 div {
   width: 100px;
   height: 100px;
@@ -30,4 +34,9 @@ div {
   border: 3px black dashed;
   border-radius: 0;
   background-color: white;
+}
+
+
+.bisque {
+  background-color: bisque;
 }
